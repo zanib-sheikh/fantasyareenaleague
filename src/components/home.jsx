@@ -640,7 +640,9 @@ function slideTo(index) {
     </div>
   </div>
 </div>
-
+<h1 className="text-white text-sm font-semibold mt-8 px-6 ">
+        {i18n.language === "ar" ? " .يرجى ملاحظة أن الفوائد المذكورة هي أمثلة وقد تتغير في المستقبل *" : "* Please note that the benefits listed are examples and may change in the future."}
+      </h1>
   </section>
 </div>
 
