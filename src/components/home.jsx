@@ -476,7 +476,7 @@ function slideTo(index) {
       <p className="text-sm text-white px-6 mb-2 opacity-80">
         {i18n.language === "ar"
           ? ".إحصائيات أساسية للاعبين: الوصول إلى تفاصيل أساسية مثل الأهداف، التمريرات الحاسمة، والمشاركات في المباريات "
-          : " Basic player stats: access essential player details such as goals, assists, and match appearances...more."}
+          : " Basic player stats: access essential player details such as goals, assists, and match appearances."}
       </p>
       </div>
 
@@ -494,12 +494,12 @@ function slideTo(index) {
             ? ".انضم إلى 6 دوريات شهريًا●"
             : "● Join 6 leagues per month."}
         </p>
-         <p className="text-xs  mt-2  text-white opacity-80 px-4">
+         <p className="text-sm  mt-2  text-white opacity-80 px-4">
           {i18n.language === "ar"
             ?" .اقتراحات تشكيلات فورية: احصل على توصيات مدعومة بالذكاء الاصطناعي لتشكيلتك بناءً على بيانات المباريات الحية"
             : " Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data."}
         </p>
-        <p className="text-xs mt-1   text-white opacity-80 px-4">
+        <p className="text-sm mt-1   text-white opacity-80 px-4">
           {i18n.language === "ar"
             ?". دعم عملاء أولوية "
             : " Priority customer support."}
@@ -610,7 +610,7 @@ function slideTo(index) {
       <p className="text-xs text-white px-6 mb-2 opacity-80">
         {i18n.language === "ar"
           ? ".إحصائيات أساسية للاعبين: الوصول إلى تفاصيل أساسية مثل الأهداف، التمريرات الحاسمة، والمشاركات في المباريات "
-          : " Basic player stats: access essential player details such as goals, assists, and match appearances...more."}
+          : " Basic player stats: access essential player details such as goals, assists, and match appearances."}
       </p>
     </div>
   </div>
