@@ -809,7 +809,7 @@ function slideTo(index) {
 {/* FORM*/}
 <div  className="w-full  flex justify-center my-12 px-4 py-4">
   <div
-    className="w-full sm:hidden  max-w-4xl  bg-cover bg-center bg-gradient-to-br from-gray-950 via-green-900 to-green-700 rounded-3xl overflow-hidden lg:flex p-4 relative"
+    className="w-full   max-w-4xl  bg-cover bg-center bg-gradient-to-br from-gray-950 via-green-900 to-green-700 rounded-3xl overflow-hidden lg:flex p-4 relative"
     style={{ height: "450px" }}
   >
 
