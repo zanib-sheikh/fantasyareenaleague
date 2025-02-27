@@ -510,8 +510,8 @@ function slideTo(index) {
         </p>
         <p className="text-sm mt-1   text-white opacity-80 px-2">
           {i18n.language === "ar"
-            ?". دعم عملاء أولوية "
-            : " Priority customer support."}
+            ?". دعم عملاء أولوية ●"
+            : "● Priority customer support."}
         </p>
         
       </div>
@@ -603,8 +603,8 @@ function slideTo(index) {
         </p>
         <p className="text-xs mt-1   text-white opacity-80 px-4">
           {i18n.language === "ar"
-            ?". دعم عملاء أولوية "
-            : " Priority customer support."}
+            ?". دعم عملاء أولوية ●"
+            : "● Priority customer support."}
         </p>
     </div>
 
