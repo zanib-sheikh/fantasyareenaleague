@@ -48,22 +48,22 @@ const Footer = () => {
           
           <ul className="flex gap-4 flex-wrap mt-4 justify-center">
             <li>
-              <a href="https://twitter.com/login" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
+              <a href="https://x.com/fantasyarename?s=11&t=Ki3WzGnsw_ZYnwlpBQI4uQ" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
                 <img src={twitter} alt="Twitter" className="w-5 h-5" />
               </a>
             </li>
             <li>
-              <a href="https://www.tiktok.com/login" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
+              <a href="https://www.tiktok.com/@fantasy.arena?_t=ZS-8uF4iS61Mv9&_r=1" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
                 <img src={linkedin} alt="LinkedIn" className="w-5 h-5" />
               </a>
             </li>
             <li>
-              <a href="https://www.facebook.com/login" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
+              <a href="https://facebook.com/61573758475898" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
                 <img src={facebook} alt="Facebook" className="w-5 h-5" />
               </a>
             </li>
             <li>
-              <a href="https://www.instagram.com/accounts/login/" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
+              <a href="https://www.instagram.com/fantasyarename?igsh=MWs1eWkwd2V0a3FyZQ%3D%3D&utm_source=qr" target="_blank" rel="noopener noreferrer" className="bg-white hover:bg-gray-400 w-10 h-10 flex items-center justify-center rounded-full shadow-md">
                 <img src={instagram} alt="Instagram" className="w-5 h-5" />
               </a>
             </li>
