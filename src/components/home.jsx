@@ -494,12 +494,12 @@ function slideTo(index) {
             ? ".انضم إلى 6 دوريات شهريًا●"
             : "● Join 6 leagues per month."}
         </p>
-         <p className="text-sm  mt-2  text-white opacity-80 px-4">
+         <p className="text-sm  mt-2  text-white opacity-80 px-2">
           {i18n.language === "ar"
             ?" .اقتراحات تشكيلات فورية: احصل على توصيات مدعومة بالذكاء الاصطناعي لتشكيلتك بناءً على بيانات المباريات الحية"
             : " Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data."}
         </p>
-        <p className="text-sm mt-1   text-white opacity-80 px-4">
+        <p className="text-sm mt-1   text-white opacity-80 px-2">
           {i18n.language === "ar"
             ?". دعم عملاء أولوية "
             : " Priority customer support."}
