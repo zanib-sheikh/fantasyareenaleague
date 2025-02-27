@@ -473,10 +473,15 @@ function slideTo(index) {
           ? ".انضم إلى ما يصل لـ 2 دوري شهريًا●"
           : "● Join up to 2 leagues per month."}
       </p>
+       <p className="text-sm text-white px-6 opacity-80">
+        {i18n.language === "ar"
+          ? ": إحصائيات أساسية للاعبين ●"
+          : "● Basic player stats: access essential player details such as goals, assists, and match appearances...more."}
+      </p>
       <p className="text-sm text-white px-6 mb-2 opacity-80">
         {i18n.language === "ar"
-          ? ".إحصائيات أساسية للاعبين: الوصول إلى تفاصيل أساسية مثل الأهداف، التمريرات الحاسمة، والمشاركات في المباريات "
-          : " Basic player stats: access essential player details such as goals, assists, and match appearances."}
+          ? "الوصول إلى تفاصيل أساسية مثل الأهداف، التمريرات الحاسمة، والمشاركات في المباريات "
+          : ""}
       </p>
       </div>
 
@@ -491,13 +496,18 @@ function slideTo(index) {
         <hr className="border-0 border-t-2 border-white opacity-20 mb-4" />
         <p className="text-sm text-white opacity-80">
           {i18n.language === "ar"
-            ? ".انضم إلى 6 دوريات شهريًا●"
+            ? ".انضم إلى 6 دوريات شهريًا ●"
             : "● Join 6 leagues per month."}
-        </p>
-         <p className="text-sm  mt-2  text-white opacity-80 px-2">
+        </p> 
+        <p className="text-sm mt-2 text-white opacity-80">
           {i18n.language === "ar"
-            ?" .اقتراحات تشكيلات فورية: احصل على توصيات مدعومة بالذكاء الاصطناعي لتشكيلتك بناءً على بيانات المباريات الحية"
-            : " Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data."}
+            ?": اقتراحات تشكيلات فورية ●"
+            : "● Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data. Priority customer support...more."}
+        </p>
+        <p className="text-sm text-white opacity-80">
+          {i18n.language === "ar"
+            ?"احصل على توصيات مدعومة بالذكاء الاصطناعي لتشكيلتك بناءً على بيانات المباريات الحية."
+            : ""}
         </p>
         <p className="text-sm mt-1   text-white opacity-80 px-2">
           {i18n.language === "ar"
@@ -523,8 +533,11 @@ function slideTo(index) {
         </p>
         <p className="text-sm mt-2 text-white opacity-80">
           {i18n.language === "ar"
-            ? ".إحصائيات متقدمة للاعبين: احصل على تحليلات تفصيلية تشمل دقة التمرير، التدخلات الحاسمة، وأداء اللاعب"
-            : " Advanced player stats: in-depth stats including passing accuracy, key tackles, and player form."}
+            ? ":إحصائيات متقدمة للاعبين ●"
+            : "● Advanced player stats: in-depth stats including passing accuracy, key tackles, and player form."}  </p>
+        <p className="text-sm  text-white opacity-80">
+          {i18n.language === "ar"
+            ? " احصل على تحليلات تفصيلية تشمل دقة التمرير، التدخلات الحاسمة، وأداء" : ""}
         </p>
       </div>
     </div>
@@ -550,10 +563,13 @@ function slideTo(index) {
             ? ".انضم إلى ما يصل لـ 4 دوريات شهريًا ●"
             : "● Join up to 4 leagues per month."}
         </p>
-        <p className="text-xs mt-2 text-white opacity-80 px-8">
+         <p className="text-xs mt-2 text-white opacity-80 px-8">
           {i18n.language === "ar"
-            ? ".إحصائيات متقدمة للاعبين: احصل على تحليلات تفصيلية تشمل دقة التمرير، التدخلات الحاسمة، وأداء اللاعب"
-            : " Advanced player stats: in-depth stats including passing accuracy, key tackles, and player form."}
+            ? ":إحصائيات متقدمة للاعبين ●"
+            : "● Advanced player stats: in-depth stats including passing accuracy, key tackles, and player form."}  </p>
+        <p className="text-xs  text-white opacity-80 px-8">
+          {i18n.language === "ar"
+            ? " احصل على تحليلات تفصيلية تشمل دقة التمرير، التدخلات الحاسمة، وأداء" : ""}
         </p>
     </div>
 
@@ -576,10 +592,15 @@ function slideTo(index) {
             ? ".انضم إلى 6 دوريات شهريًا ●"
             : "● Join 6 leagues per month."}
         </p>
-         <p className="text-xs  mt-2  text-white opacity-80 px-4">
+         <p className="text-xs mt-2 text-white opacity-80 px-4">
           {i18n.language === "ar"
-            ?" .اقتراحات تشكيلات فورية: احصل على توصيات مدعومة بالذكاء الاصطناعي لتشكيلتك بناءً على بيانات المباريات الحية"
-            : " Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data."}
+            ?": اقتراحات تشكيلات فورية ●"
+            : "● Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data. Priority customer support...more."}
+        </p>
+        <p className="text-xs text-white opacity-80 px-4">
+          {i18n.language === "ar"
+            ?"احصل على توصيات مدعومة بالذكاء الاصطناعي لتشكيلتك بناءً على بيانات المباريات الحية."
+            : ""}
         </p>
         <p className="text-xs mt-1   text-white opacity-80 px-4">
           {i18n.language === "ar"
@@ -607,10 +628,15 @@ function slideTo(index) {
           ? ".انضم إلى ما يصل لـ 2 دوري شهريًا●"
           : "● Join up to 2 leagues per month."}
       </p>
+      <p className="text-xs text-white px-6 opacity-80">
+        {i18n.language === "ar"
+          ? ": إحصائيات أساسية للاعبين ●"
+          : "● Basic player stats: access essential player details such as goals, assists, and match appearances...more."}
+      </p>
       <p className="text-xs text-white px-6 mb-2 opacity-80">
         {i18n.language === "ar"
-          ? ".إحصائيات أساسية للاعبين: الوصول إلى تفاصيل أساسية مثل الأهداف، التمريرات الحاسمة، والمشاركات في المباريات "
-          : " Basic player stats: access essential player details such as goals, assists, and match appearances."}
+          ? "الوصول إلى تفاصيل أساسية مثل الأهداف، التمريرات الحاسمة، والمشاركات في المباريات "
+          : ""}
       </p>
     </div>
   </div>
