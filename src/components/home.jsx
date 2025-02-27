@@ -687,7 +687,7 @@ function slideTo(index) {
       </li>
     </ul>
     <h1 className="text-white text-sm font-bold mt-4 ">
-        {i18n.language === "ar" ? "يرجى ملاحظة أن الفوائد المذكورة هي أمثلة وقد تتغير في المستقبل" : "Please note that the benefits listed are examples and may change in the future."}
+        {i18n.language === "ar" ? "* يرجى ملاحظة أن الفوائد المذكورة هي أمثلة وقد تتغير في المستقبل" : "* Please note that the benefits listed are examples and may change in the future."}
       </h1>
   </div>
 
@@ -765,7 +765,7 @@ function slideTo(index) {
       </li>
     </ul>
     <h1 className="text-white font-semibold mt-4 ">
-        {i18n.language === "ar" ? "يرجى ملاحظة أن الفوائد المذكورة هي أمثلة وقد تتغير في المستقبل" : "Please note that the benefits listed are examples and may change in the future."}
+        {i18n.language === "ar" ? "* يرجى ملاحظة أن الفوائد المذكورة هي أمثلة وقد تتغير في المستقبل" : "* Please note that the benefits listed are examples and may change in the future."}
       </h1>
 
   </div>
