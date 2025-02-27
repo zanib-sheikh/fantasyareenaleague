@@ -502,8 +502,7 @@ function slideTo(index) {
         <p className="text-sm mt-2 text-white opacity-80">
           {i18n.language === "ar"
             ?": اقتراحات تشكيلات فورية ●"
-            : "● Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data. Priority customer support...more."}
-        </p>
+            : "● Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data."}</p>
         <p className="text-sm text-white opacity-80">
           {i18n.language === "ar"
             ?"احصل على توصيات مدعومة بالذكاء الاصطناعي لتشكيلتك بناءً على بيانات المباريات الحية."
