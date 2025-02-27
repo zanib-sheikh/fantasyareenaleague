@@ -476,7 +476,7 @@ function slideTo(index) {
        <p className="text-sm text-white px-6 opacity-80">
         {i18n.language === "ar"
           ? ": إحصائيات أساسية للاعبين ●"
-          : "● Basic player stats: access essential player details such as goals, assists, and match appearances...more."}
+          : "● Basic player stats: access essential player details such as goals, assists, and match appearances."}
       </p>
       <p className="text-sm text-white px-6 mb-2 opacity-80">
         {i18n.language === "ar"
@@ -594,7 +594,7 @@ function slideTo(index) {
          <p className="text-xs mt-2 text-white opacity-80 px-4">
           {i18n.language === "ar"
             ?": اقتراحات تشكيلات فورية ●"
-            : "● Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data. Priority customer support...more."}
+            : "● Real-time lineup suggestions: get AI-powered recommendations on your lineup based on real-time match data."}
         </p>
         <p className="text-xs text-white opacity-80 px-4">
           {i18n.language === "ar"
@@ -630,7 +630,7 @@ function slideTo(index) {
       <p className="text-xs text-white px-6 opacity-80">
         {i18n.language === "ar"
           ? ": إحصائيات أساسية للاعبين ●"
-          : "● Basic player stats: access essential player details such as goals, assists, and match appearances...more."}
+          : "● Basic player stats: access essential player details such as goals, assists, and match appearances."}
       </p>
       <p className="text-xs text-white px-6 mb-2 opacity-80">
         {i18n.language === "ar"
